@@ -1,4 +1,4 @@
 disableStartupPopups: true
 gui:
-    showCommandLog: false
+    showCommandLog: true
     sidePanelWidth: 0.4
